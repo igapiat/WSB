@@ -6,9 +6,9 @@ void displaymenu()
 { 
     cout<<" \t\t Select code below: \t \n ";
     cout<<"______________________________________________________ \n";
-    cout<<" 1.Select code GA-DE-RY-PO-LU-KI \n";
-    cout<<" 2.Select code PO-LI-TY-KA-RE-NU \n";
-    cout<<" 3.Select code KA-CE-MI-NU-TO-WY \n";
+    cout<<" 1.Generate code GA-DE-RY-PO-LU-KI \n";
+    cout<<" 2.Generate code PO-LI-TY-KA-RE-NU \n";
+    cout<<" 3.Generate code KA-CE-MI-NU-TO-WY \n";
 }
 
 void GenerateCodeGaDeRyPoLuKi()
