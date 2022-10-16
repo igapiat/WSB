@@ -4,7 +4,6 @@ using namespace std;
 
 void displaymenu()
 { 
-    cout<<"______________________________________________________ \n";
     cout<<" \t\t Select code below: \t \n ";
     cout<<"______________________________________________________ \n";
     cout<<" 1.Select code GA-DE-RY-PO-LU-KI \n";
